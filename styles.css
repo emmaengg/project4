@@ -1,6 +1,6 @@
 body {
     font-family: inherit;
-    background-color: #77D496;
+    background-color: #ADD2B7;
     color: #000; 
     margin: 0;
     padding: 0;
@@ -16,7 +16,7 @@ nav ul {
     justify-content: space-around;
     align-items: center;
     height: 50px;
-    background-color: #FFC72C;
+    background-color: #E8F1A2;
     padding: 0;
     margin: 0;
     list-style: none;
@@ -28,7 +28,7 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: #C20022;
+    color: #E0115F;
     font-weight: bold;
     font-size: 19px;
 }
@@ -43,7 +43,7 @@ main {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: wheat;
+    background-color: ADD2B7;
     color: black;
 }
 
